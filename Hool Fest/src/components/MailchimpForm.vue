@@ -2,9 +2,9 @@
     <section class="sign-up">
     
      <p>Sign up to our mailing list to be in the know...</p>
-     <form  action="https://hoolfest.us3.list-manage.com/subscribe/post" method="POST">
-        <input type="hidden" name="u" value="739535c4038eaec7057fd561c">
-        <input type="hidden" name="id" value="0f71cea32c">
+     <form  action="HIDDEN" method="POST">
+        <input type="hidden" name="u" value="HIDDEN">
+        <input type="hidden" name="id" value="HIDDEN">
         <input type="text" name="MERGE1" placeholder="name"  
           v-model="name">
         <input type="email" name="MERGE0" placeholder="email"  autocomplete="off"

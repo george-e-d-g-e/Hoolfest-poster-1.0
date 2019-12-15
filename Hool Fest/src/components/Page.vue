@@ -42,8 +42,7 @@
 </template>
 
 <script>
-// import Poster from '@/components/Poster.vue';
-import Poster from '@/components/PosterV3.vue';
+import Poster from '@/components/Poster.vue';
 import MailchimpForm from '@/components/MailchimpForm.vue';
 
 export default {
